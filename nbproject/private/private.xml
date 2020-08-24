@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/mvc/App/models/Note.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/App/views/notes/criar.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/App/controllers/notes.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/App/views/notes/ver.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/App/views/home/index.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/App/views/home/login.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/App/controllers/home.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/App/views/notes/editar.php</file>
+            <file>file:/C:/xampp/htdocs/mvc/App/Auth.php</file>
+        </group>
+    </open-files>
+</project-private>
